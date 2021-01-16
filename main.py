@@ -18,8 +18,10 @@ popValue = testList.pop()
 print(popValue)
 print(testList)
 
+#obj in list
 print(5 in testList)
 print(1 in testList)
 
+#clear List
 testList.clear()
 print(testList)
