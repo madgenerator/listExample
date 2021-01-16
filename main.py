@@ -18,3 +18,8 @@ popValue = testList.pop()
 print(popValue)
 print(testList)
 
+print(5 in testList)
+print(1 in testList)
+
+testList.clear()
+print(testList)
